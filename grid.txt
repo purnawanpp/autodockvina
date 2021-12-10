@@ -1,0 +1,4 @@
+6COX_protein
+spacing    0.436
+npts       28 16 24
+center    23.106 23.526 46.984

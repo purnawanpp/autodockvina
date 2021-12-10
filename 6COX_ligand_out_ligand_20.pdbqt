@@ -1,0 +1,26 @@
+REMARK VINA RESULT:      -5.2      3.694      5.135
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: C2_2  and  N1_4 
+REMARK    1  A    between atoms: N1_4  and  C3_5 
+REMARK    2  A    between atoms: C6_8  and  O2_9 
+ROOT
+ATOM      1  C3  LIG A   1      27.422  27.492  43.838  1.00  0.00     0.034 A 
+ATOM      2  C4  LIG A   1      26.493  26.535  43.383  1.00  0.00     0.032 A 
+ATOM      3  C5  LIG A   1      25.791  26.718  42.186  1.00  0.00     0.039 A 
+ATOM      4  C6  LIG A   1      25.998  27.863  41.417  1.00  0.00     0.065 A 
+ATOM      5  C7  LIG A   1      26.909  28.829  41.852  1.00  0.00     0.039 A 
+ATOM      6  C8  LIG A   1      27.614  28.653  43.045  1.00  0.00     0.032 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  N1  LIG A   1      28.112  27.225  45.077  1.00  0.00    -0.328 N 
+ATOM      8  C2  LIG A   1      29.298  26.554  45.232  1.00  0.00     0.218 C 
+ATOM      9  C1  LIG A   1      29.940  26.294  46.607  1.00  0.00     0.117 C 
+ATOM     10  O1  LIG A   1      29.893  26.096  44.272  1.00  0.00    -0.274 OA
+ATOM     11  H4  LIG A   1      27.647  27.560  45.934  1.00  0.00     0.169 HD
+ENDBRANCH   1   7
+BRANCH   4  12
+ATOM     12  O2  LIG A   1      25.317  28.026  40.264  1.00  0.00    -0.361 OA
+ATOM     13  H7  LIG A   1      24.390  28.305  40.249  1.00  0.00     0.217 HD
+ENDBRANCH   4  12
+TORSDOF 2

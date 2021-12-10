@@ -1,0 +1,3 @@
+vina.exe --config conf.txt --cpu 4
+vina_split.exe --input 6COX_ligand_out.pdbqt
+dir

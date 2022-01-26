@@ -1,4 +1,4 @@
-**autodockvina
+**autodockvina**
 Docking Tutorial Using Autodock Vina old version 2010 using windows
 
 **Write this command in the terminal**:
